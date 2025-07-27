@@ -29,7 +29,7 @@ Designed for clarity and flexibility, CleaningBox helps you prepare data efficie
 
 ## Installation
 
-CleaningBox is available on [PyPI](https://pypi.org/cleaningbox), so you can install it using pip:
+CleaningBox is available on [PyPI](https://pypi.org/project/cleaningbox), so you can install it using pip:
 > **Requires**: Python 3.7 or higher
 ```bash
 pip install cleaningbox
