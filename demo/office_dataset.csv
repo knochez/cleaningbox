@@ -1,0 +1,31 @@
+name,age,job,marital_status,education,salary,subscribed_newsletter
+Alice Smith,34,Admin Assistant,Married,University Degree,55000,Yes
+Bob Johnson,45,IT Technician,Single,High School,62000,No
+Cathy Nguyen,29,HR Manager,Married,Basic 9 Years,48000,Yes
+David Lee,42,Warehouse Clerk,Divorced,Basic 6 Years,None,No
+Ella Carter,50,Admin Assistant,Single,High School,51000,Yes
+Frank Wright,37,IT Technician,Married,University Degree,63000,
+Grace Kim,?,Admin Assistant,?,Unknown,54000,No
+Henry Adams,41,/,Divorced,Basic 9 Years,58000,No
+Isla Morgan,36,Customer Service,Married,Illiterate,49000,Yes
+Jack Brown,38,HR Manager,,Basic 6 Years,?,Yes
+Karen White,unknown,Admin Assistant,Single,Basic 9 Years,Unknown,Unknown
+Leo Davis,28,unknown,Na,University Degree,56000,No
+Mia Thompson,33,IT Technician,Divorced,High School,unknown,Yes
+Nathan Scott,Na,Warehouse Clerk,Unknown,Na,Na,Na
+Olivia Brooks,49,HR Manager,Married,Basic 6 Years,53000,No
+Paul Walker,31,Customer Service,Single,Illiterate,61000,Yes
+Quincy Allen,None,NaN,unknown,unknown,52000,/
+Rachel Fox,46,Admin Assistant,Single,High School,NaN,unknown
+Steve Nash,35,IT Technician,Divorced,Basic 9 Years,None,No
+Tina Blake,40,None,Married,/,50000,Yes
+Uma Reed,39,HR Manager,/,Illiterate,/,NaN
+Victor Hale,/,Customer Service,Married,NaN,Na,No
+Wendy Price,27,Admin Assistant,Single,Basic 6 Years,54000,Yes
+Xander Moon,32,Warehouse Clerk,NaN,Unknown,59000,Yes
+Yasmin Ortiz,36,Unknown,Single,High School,60000,None
+Zack Cole,NaN,IT Technician,Divorced,University Degree,57000,Yes
+Ann Young,30,Admin Assistant,Single,Illiterate,62000,No
+Ben Ford,38,HR Manager,Unknown,High School,Unknown,No
+Cara Grant,Unknown,Na,Married,Na,51000,Yes
+Dean Blake,43,Admin Assistant,None,None,55000,Unknown

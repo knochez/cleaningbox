@@ -1,0 +1,31 @@
+name,age,marital_status,education,salary,subscribed_newsletter,job_Customer Service,job_HR Manager,job_IT Technician,job_Warehouse Clerk
+Alice Smith,34.0,Married,University Degree,-0.18181818181818182,0.0,0,0,0,0
+Bob Johnson,45.0,Single,High School,2.3636363636363638,-1.0,0,0,1,0
+Cathy Nguyen,29.0,Married,Basic 9 Years,-2.727272727272727,0.0,0,1,0,0
+David Lee,42.0,Divorced,Basic 6 Years,0.0,-1.0,0,0,0,1
+Ella Carter,50.0,Single,High School,-1.6363636363636365,0.0,0,0,0,0
+Frank Wright,37.0,Married,University Degree,2.727272727272727,0.0,0,0,1,0
+Grace Kim,37.34782608695652,Married,High School,-0.5454545454545454,-1.0,0,0,0,0
+Henry Adams,41.0,Divorced,Basic 9 Years,0.9090909090909091,-1.0,0,0,0,0
+Isla Morgan,36.0,Married,Illiterate,-2.3636363636363638,0.0,1,0,0,0
+Jack Brown,38.0,Married,Basic 6 Years,0.0,0.0,0,1,0,0
+Karen White,37.34782608695652,Single,Basic 9 Years,0.0,0.0,0,0,0,0
+Leo Davis,28.0,Married,University Degree,0.18181818181818182,-1.0,0,0,0,0
+Mia Thompson,33.0,Divorced,High School,0.0,0.0,0,0,1,0
+Nathan Scott,37.34782608695652,Married,High School,0.0,0.0,0,0,0,1
+Olivia Brooks,49.0,Married,Basic 6 Years,-0.9090909090909091,-1.0,0,1,0,0
+Paul Walker,31.0,Single,Illiterate,2.0,0.0,1,0,0,0
+Quincy Allen,37.34782608695652,Married,High School,-1.2727272727272727,0.0,0,0,0,0
+Rachel Fox,46.0,Single,High School,0.0,0.0,0,0,0,0
+Steve Nash,35.0,Divorced,Basic 9 Years,0.0,-1.0,0,0,1,0
+Tina Blake,40.0,Married,High School,-2.0,0.0,0,0,0,0
+Uma Reed,39.0,Married,Illiterate,0.0,0.0,0,1,0,0
+Victor Hale,37.34782608695652,Married,High School,0.0,-1.0,1,0,0,0
+Wendy Price,27.0,Single,Basic 6 Years,-0.5454545454545454,0.0,0,0,0,0
+Xander Moon,32.0,Married,High School,1.2727272727272727,0.0,0,0,0,1
+Yasmin Ortiz,36.0,Single,High School,1.6363636363636365,0.0,0,0,0,0
+Zack Cole,37.34782608695652,Divorced,University Degree,0.5454545454545454,0.0,0,0,1,0
+Ann Young,30.0,Single,Illiterate,2.3636363636363638,-1.0,0,0,0,0
+Ben Ford,38.0,Married,High School,0.0,-1.0,0,1,0,0
+Cara Grant,37.34782608695652,Married,High School,-1.6363636363636365,0.0,0,0,0,0
+Dean Blake,43.0,Married,High School,-0.18181818181818182,0.0,0,0,0,0

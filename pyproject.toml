@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cleaningbox"
+version = "1.0.3"
+description = "A lightweight, modular Python library for data cleaning workflows."
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [
+  { name="Kevin Nochez" }
+]
+dependencies = [
+  "pandas>=1.3.0",
+  "numpy>=1.21.0",
+  "openpyxl>=3.1.0"
+]
+requires-python = ">=3.7"
+
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.7",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Operating System :: OS Independent",
+  "Topic :: Scientific/Engineering :: Information Analysis"
+]
