@@ -12,7 +12,8 @@ Designed for clarity and flexibility, CleaningBox helps you prepare data efficie
 
 ## Changelog V1.0.3:
 > Note: Versions 1.0.0 to 1.0.2 were removed due to early development cleanup. This is the first official release.
-
+**HotFix:**
+- Added benchmark script and results to the [`benchmark`](https://github.com/knochez/cleaningbox/tree/main/benchmark) folder in the GitHub repository.
 ## Features
 
 | 🔧 **Functionality**        | 📄 **Description**                                                | 🎯 **Purpose / Output**                                                 |
